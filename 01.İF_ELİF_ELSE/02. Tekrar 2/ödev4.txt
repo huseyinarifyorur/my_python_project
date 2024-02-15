@@ -1,0 +1,8 @@
+#Kullanıcıdan 1.ürünün fiyatını girmesini isteyiniz.
+#Kullanıcıdan 2.ürünün fiyatını girmesini isteyiniz.
+#Kullanıcıdan alınan bu 2 ürünün toplam tutar bilgisini alın.
+#Kullanıcıdan alınan bu tutar bilgisi 200'e eşit veya 200'den az ise ödenecek tutarda bi indirim uygulanmayacak.
+#Kullanıcıdan alınan bu tutar bilgisi 200'den fazla ise ödenecek tutarda %25 indirim uygulanacak.
+#Ve Çalıştırılacak
+
+

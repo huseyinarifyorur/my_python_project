@@ -1,0 +1,6 @@
+#Kullanıcıdan plaka kodunu girmesini isteyen bir değişken oluşturunuz.
+#Kullanıcıdan alınan bu plaka kodu ("06")ise "Ankara" diyen değişken oluştur.
+#Kullanıcıdan alınan bu plaka kodu ("07")ise "Antalya" diyen değişken oluşturunuz.
+#Kullanıcıdan alınan bu plaka kodu ("08")ise "Artvin" diyen değişken oluşturunuz.
+#Kullanıcıdan alınan bu plaka kodu ("Hiçbiri") değil ise "Türkiye" diyen değişken oluşturunuz.
+#Ve Çalıştır.

@@ -1,0 +1,3 @@
+#Asal sayılar yazan bir değişken oluştur.
+#Ve ekrana yazdır.
+

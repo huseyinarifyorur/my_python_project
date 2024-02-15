@@ -1,0 +1,11 @@
+#Kulllanıcıdan boyunu girmesini isteyiniz.
+#Kullanıcıdan 2.boyunu girmesini isteyiniz.
+#Kullanıcıdan kilosunu girmesini isteyiniz.
+#Kullanıcıdan alınan boy1 değişkeni ile boy2 değişkenini çarpıp kilo değişkenine böldürmesini isteyiniz.
+#Kullanıcının yaptığı bu değişkene vki(Vücut Kilo Ağırlığı) deyiniz.
+#Kullanıcıdan alınan bu vki 18 ile < 25 aralığındaysa normal deyiniz.
+#Kullanıcıdan alınan bu vki 25 ile <30 aralığındaysa kilolu deyiniz.
+#Kullanıcıdan alınan bu vki 30 ve daha yüksekse obez deyiniz.
+#Kullanıcıdan alınan bu vki 35 ve daha fazlaysa ciddi obez deyiniz.
+#Ve Çalıştırınız.
+

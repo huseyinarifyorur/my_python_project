@@ -1,0 +1,8 @@
+#Kullanıcıdan 1.açının değerini girmesini isteyiniz.
+#Kullanıcıdan 2.açının değerini girmesini isteyiniz.
+#Kullanıcıdan 3.açının değerini girmesini isteyiniz.
+#Ondan sonra bu 3 açının toplamını isteyiniz.
+#3 açının toplamı 180'e eşitse bu bir üçgendir diyen bir değişken oluştur.
+#3 açının toplamı 180'den küçük ise bu bir üçgen değildir diyen değişken oluştur.
+#3 açının toplamı 180'den büyük ise bu bir üçgen değildir diyen değişken oluştur.
+#Ve çalıştır

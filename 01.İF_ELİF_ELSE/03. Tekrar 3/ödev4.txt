@@ -1,0 +1,6 @@
+#İlk ürünün fiyatını giriniz.
+#İkinci ürünün fiyatını giriniz.
+#Ondan sonra ise bu 2 ürünün fiyatlarını toplayınız.
+#Toplamda çıkan sonuç 200'e eşit veya 200'den küçük ise Ödemeniz gereken tutarda bi indirim yapılmayacak.
+#Toplamda çıkan sonuç 200'e eşit veya 200'den büyük ise Ödenmesi gereken tutara %25 indirim uygula.
+#Ve Çalıştır.

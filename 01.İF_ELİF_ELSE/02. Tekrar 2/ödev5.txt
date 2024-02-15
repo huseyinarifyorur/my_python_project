@@ -1,0 +1,7 @@
+#Kullanıcıdan kullanıcı adı girilmesi gereken bir değişken oluştur.
+#Kulanıcıdan şifresini girilmesi için bir değişken oluştur.
+#Kullanıcıdan kullanıcı adı "Türkiye" ve Şifre "1923" olacak bir değişken oluştur.
+#Bir önceki kuraldaki metodlara uyulursa "Kullanıcıadı Ve Şifre DOĞRU Girildi!" diyen kodu veriniz.
+#Kuraldaki metodlara uyulmaz ise "Kullanıcıadı Ve Şifre YANLIŞ Girildi!(Tekrar Dene)" diyen kodu veriniz.
+#Ve Çalıştırınız.
+

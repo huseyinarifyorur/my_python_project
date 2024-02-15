@@ -1,0 +1,5 @@
+#Kullanıcıdan 1.sayıyı girmesini isteyiniz.
+#Kullanıcıdan 2.sayıyı girmesini isteyiniz.
+#Kullanıcıdan 3.sayıyı girmesini isteyiniz.
+#Kullanıcıdan Girilen üç sayıdan en büyüğünü seçiniz.
+#Ve çalıştırınız.

@@ -1,0 +1,5 @@
+#Kullanıcıdan hava sıcaklığını girmesini isteyen bir değişken oluşturunuz.
+#Kullanıcıdan alınan bu hava sıcaklığı 5'e eşit ve 5'den küçük ise Hava"Soğuk" diyen değişken oluşturunuz.
+#Kullanıcıdan alınan bu hava sıcaklığı 6'ya eşit ve 6'dan küçük ise ve 14'e eşit ve 14'den küçük ise Hava"Ilık" diyen değişken oluşturunuz.
+#Kullanıcıdan alınan ılık hava bilgilerinden büyük bir değer gelirse Hava"Sıcak" diyen değişken oluştur.
+#Ve çalıştır.

@@ -1,0 +1,4 @@
+#Pazartesiden cumaya kadar olan günleri yazan bir değişken oluştur. 
+#İndeksi 4 olan sayıyı ekrana yazdır.
+
+

@@ -1,0 +1,4 @@
+#Bagaj hakkı diye bir değişken gir.
+#Max bagaj hakkı 20 kg bunu her 1 kg geçtiğinde 10 tl artı olarak ücret yaz.
+#20 den küçükse fazla ücret alma.
+#Ve çalıştır.

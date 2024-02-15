@@ -1,0 +1,4 @@
+#Kullanıcıdan sanat,sanat,içindir. yazan bir değişken oluşturmasını isteyiniz.
+#Ondan sonra ise sanat,toplum,içindir. olarak değiştirelim.
+#Ve çalıştıralım.
+

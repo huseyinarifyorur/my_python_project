@@ -1,0 +1,6 @@
+#Kullanıcıdan Bilgisayarının işlemcisini ve Ram'ini (GB) soran bir değişken oluştur.
+#Kullanıcıdan alınan bu Ram bilgisi (8GB) ise Kuruluma hazır diyen bir değişken oluştur.
+#Kullanıcıdan alınan bu Ram bilgisi (8GB) değil ise Kuruluma hazır değil diyen bir değişken oluştur.
+#Kullanıcıdan alınan bu İşlemci bilgisi (i7) ise Kuruluma hazır diyen bir değişken oluştur.
+#Kullanıcıdan alınan bu İşlemci bilgisi (i7) değil ise Kuruluma hazır değil diyen bir değişken oluştur.
+#Ve çalıştır.

@@ -1,0 +1,6 @@
+#Kullanıcıdan Adını girmesini isteyen bir değişken oluştur.
+#Kullanıcıdan Şifresini girmesini isteyen bir değişken oluştur.
+#Kullanıcı adı "türkiye" olacak ve şifre "1923" olacak.
+#Bu kullanıcı adı ve şifre girildiği takdirde kullanıcı adı ve şifre doğru diyen bir değişken oluştur.
+#Bu kullanıcı adı ve şifre girilmediği takdirde kullanıcı adı ve şifre doğru değil diyen bir değişken oluştur.
+#Ve çalıştır

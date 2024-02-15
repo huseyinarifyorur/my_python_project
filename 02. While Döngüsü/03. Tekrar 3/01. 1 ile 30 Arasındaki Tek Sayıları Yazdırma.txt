@@ -1,0 +1,2 @@
+Number = 1 diye bir değişken oluştur 
+whileyi kullanarak 30 ve 30'a eşit olan sayıları yani <=30 bu şekilde olan metodu kullan 

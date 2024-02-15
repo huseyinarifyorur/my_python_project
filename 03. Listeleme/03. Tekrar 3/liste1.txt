@@ -1,0 +1,3 @@
+#Bir Gün Değişkeni oluştur ve 1 haftada olan günleri yaz.
+#Ve çalıştır.
+

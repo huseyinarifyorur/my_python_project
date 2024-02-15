@@ -1,0 +1,11 @@
+#Kullanıcıdan 2 sınav notu ve 1 performans notu girmesini isteyiniz.
+#Kullanıcıdan ismini girmesini isteyiniz.
+#Merhaba Ortalama Hesaplamaya Hoşgeldiniz Diye bir değişken oluştur.
+#İlk sınav notunuzu giriniz.
+#İkinci sınav notunuzu giriniz.
+#Ve bu 2 sınav notunu toplayınız.
+#Ondan sonra ise bu 2 notu 2'ye bölünüz.
+#Bu iki sınav notunun ortalamasına performans notu deyiniz.
+#Performans Notu 50'den düşükse Başarısız oldunuz diyen değişken oluşturunuz.
+#Performans Notu 50'den büyükse Tebrikler başardınız diyen değişken oluştur.
+#Ve Çalıştır

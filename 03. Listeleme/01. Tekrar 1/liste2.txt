@@ -1,0 +1,3 @@
+#Sevdiğin 3 meyve için bir değişken oluştur. 
+#Ve çalıştır.
+

@@ -1,0 +1,4 @@
+#Kullanıcıdan 8 haneli bir şifre girmesini isteyiniz.
+#Kullanıcının girdiği şifre 8 den az veya daha fazla karakter içeriyor ise "Şifreniz 8 haneli olmalı!"diyecek.
+#Kullanıcıdan alınan şifre 8 haneli ise "şifreniz kaydedildi" diyecek.
+

@@ -1,0 +1,8 @@
+#Kullanıcıdan 1.açı için değer girilmesi gereken bir değişken oluştur.
+#Kullanıcıdan 2.açı için değer girilmesi gereken bir değişken oluştur.
+#Kullanıcıdan 3.açı için değer girilmesi gereken bir değişken oluştur.
+#Kullanıcıdan alınan bu 3 açı değerlerinin hepsi birbirine eşit ise eşkenar üçgen diyen bir değişken oluştur.
+#Kullanıcıdan alınan bu 3 açıdan 2 açısı eşit olup bir açısı eşit olmaz ise ikizkenar üçgen diyen bir değişken oluştur.
+#Kullanıcıdan alınan bu 3 açı değerlerinin hiçbiri birbirine eşit değilse çeşitkenar üçgen diyen bir değişken oluştur.
+#Ve çalıştır.
+

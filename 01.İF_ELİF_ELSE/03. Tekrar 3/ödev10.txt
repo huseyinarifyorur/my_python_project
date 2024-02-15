@@ -1,0 +1,6 @@
+#Kullanıcıdan otopark değişkeni oluşturmasını isteyiniz.
+#Kullanıcıdan otoparkta kalınan süreyi isteyiniz.
+#Otoparkta kalınan süre 1 saat veya 1 saatten az ise  1 saate kadar: 5 TL ücret al.
+#Otoparkta kalınan süre 1 saat ile 5 saat arasında ise 1-5 saat arası: Saat başı 4 TL al.
+#Otoparkta kalınan süre 5 saatten fazla ise: Saat başı 3 TL ücret al.
+#Ve hesaplaması yapılan değeri ekrana yazdır.

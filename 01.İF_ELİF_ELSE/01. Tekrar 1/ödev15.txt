@@ -1,0 +1,7 @@
+#Kullanıcıdan bir müşteri değişkeni oluşturmasını isteyiniz.
+#Ve bunun içine Sinemaya mı yoksa tiyatroya mı gideceksiniz diye soran bir değişken oluştur.
+#Kullanıcıdan bir öğrenci değişkeni oluşturmasını isteyiniz.
+#Ve öğrenci misiniz diye soran bir değişken oluşturmasını isteyiniz.
+#Sinema izlemek için 15 TL ,  tiyatro için 10 TL ödenmesi gerekmektedir.
+#Öğrenciler için %50 indirim yapılması gerekmektedir öğrenci ise indirim yapılacak.
+#Öğrenci değil ise indirim yapılmayıp direk çıkan tutar ödenecek.

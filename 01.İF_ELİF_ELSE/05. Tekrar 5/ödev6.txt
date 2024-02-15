@@ -1,0 +1,4 @@
+#Kullanıcıdan 1 sayı girmesini isteyiniz.
+#Kullanıcıdan alınan bu sayı Girilen sayı hem 3 hem de 5’e tam bölünüyor ise  “15’e tam bölünür.” diyen bir değişken oluştur.
+Kullanıcıdan alınan bu sayı  hem 3 hem de 5’e tam bölünmüyor ise  “15’e tam bölünmez" diyen değişken oluştur.
+#Ve çalıştır.

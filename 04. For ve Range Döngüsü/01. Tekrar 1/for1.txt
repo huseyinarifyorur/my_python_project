@@ -1,0 +1,2 @@
+#0-20 arası çift sayıları for döngüsü ile ekrana yazdırınız.
+

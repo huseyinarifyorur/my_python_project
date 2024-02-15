@@ -1,0 +1,4 @@
+#Kullanıcıdan değerleri sırasıyla 3,1,2 olan listeyi yapmasını isteyiniz.
+#Ondan sonra ise bu listeyi 1,1,2 olarak değiştirmesini isteyiniz.
+#Ve çalıştırınız.
+

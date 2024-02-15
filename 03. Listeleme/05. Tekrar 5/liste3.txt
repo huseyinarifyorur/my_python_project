@@ -1,0 +1,6 @@
+#Kullanıcıdan  pi sayısını girmesini isteyiniz.
+#Kullanıcıdan  inç biriminin cm olarak karşılığını girmesini isteyiniz.
+#Kullanıcıdan  mikroişlemcilerin kısaltmasını girmesini isteyiniz.
+#Kullanıcıdan  kullandığınız işletim sisteminin adını girmesini isteyiniz.
+#Kullanıcıdan  48 bitin byte olarak karşılığını girmesini isteyiniz.
+#Ve çalıştırınız.

@@ -1,0 +1,2 @@
+# Number = 1 ' diye bir değişken oluştur
+# Ve while döngüsü ile yazdır
